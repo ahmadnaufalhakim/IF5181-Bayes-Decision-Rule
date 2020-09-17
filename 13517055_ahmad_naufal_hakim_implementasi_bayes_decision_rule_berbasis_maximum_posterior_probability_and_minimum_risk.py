@@ -10,6 +10,7 @@ Original file is located at
 
 - Nama : Ahmad Naufal Hakim
 - NIM : 13517055
+- Link code : https://github.com/ahmadnaufalhakim/IF5181-Bayes-Decision-Rule
 - Link video : https://www.youtube.com/watch?v=53mht_IIagE
 
 ## Deskripsi Masalah
